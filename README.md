@@ -8,7 +8,7 @@ This repository contains the official documentation for Root, covering:
 
 ## View the Docs
 
-📖 **Live Site:** [https://root.github.io/root-docs/](https://root.github.io/root-docs/)  
+📖 **Live Site:** [https://root.github.io/documentation/](https://root.github.io/root-docs/)  
 
 ## Contributing
 
